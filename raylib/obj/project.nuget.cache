@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oiJ9Pa+LRsLr2gTsvW2pfso5tK4YLpW6R6c1KdyPnJxps6h166pnjOyYeuqZTOGqfYDjsrNkIDQcYpivSBinSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\webb\\programering\\raylib\\raylib\\raylib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mesquitabohm.adrian\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\mesquitabohm.adrian\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
